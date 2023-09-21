@@ -1,0 +1,19 @@
+{
+  "name": "my-nextjs-render-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DaniDhax/my-nextjs-render-app",
+  "author": "DaniDhax <111738016+DaniDhax@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
